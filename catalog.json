@@ -1,1 +1,16 @@
-{"games": []}
+{
+  "games": [
+    {
+      "added": "2026-08-21",
+      "description": "Test",
+      "exe_path": "",
+      "icon_url": "",
+      "id": "game-1787336660105",
+      "name": "MECCHA.CHAMELEON.v3.3.1-OFME",
+      "password": "online-fix.me",
+      "size": "3.5 GB",
+      "torrent": "torrents/MECCHA.CHAMELEON.v3.3.1-OFME.torrent",
+      "version": "3.3.1"
+    }
+  ]
+}
