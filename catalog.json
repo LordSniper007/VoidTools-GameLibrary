@@ -129,7 +129,20 @@
       "torrent": "torrents/game-mt690vmo-o3vfhb3-51e5cc4d77ccf146.torrent",
       "torrent_sha256": "59d6f6b0bc97d81c4eca0d5a027dca16cf4dfa9a9a9086a8e17363c576c3dbf7",
       "version": "10062026"
+    },
+    {
+      "added": "2026-08-25",
+      "description": "im under the wata please help me.",
+      "exe_path": "",
+      "icon_url": "",
+      "id": "game-mt8u5t6e-gsbpaeo",
+      "name": "How to fish",
+      "password": "online-fix.me",
+      "size": "1 GB",
+      "torrent": "torrents/game-mt8u5t6e-gsbpaeo-04bc39530c9bfbec.torrent",
+      "torrent_sha256": "3c573cccbdeee4895b4a8fd248d8010c2218ae84ce8fabf5681c8a2c346c2578",
+      "version": "1.0.2"
     }
   ],
-  "updated": "2026-08-23"
+  "updated": "2026-08-25"
 }
